@@ -1,4 +1,4 @@
-// Adding this line from github website
+// removing from vs code editor
 const formID = document.getElementById("form");
 const main = document.getElementById("main");
 
