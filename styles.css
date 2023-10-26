@@ -1,0 +1,51 @@
+#card {
+    background-color: gray;
+    width: 50%;
+    border-radius: 25px;
+  }
+  
+  #userImage {
+    border-radius: 50%;
+    width: 150px;
+  }
+  
+  #form {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .col-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #name {
+    margin-bottom: 20px;
+    font-family: ui-serif;
+    padding-left: 10px;
+    font-size: 22px;
+    color: white;
+    font-weight: 600;
+  }
+  
+  .bio {
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .keys {
+    font-weight: 300;
+    font-size: 19px;
+    font-family: ui-serif;
+    color: #fff;
+  }
+  
+  .values {
+    font-size: 18px;
+    font-family: ui-serif;
+    color: lightgray;
+  }
+  
