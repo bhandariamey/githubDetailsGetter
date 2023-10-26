@@ -1,3 +1,4 @@
+// Adding this line from github website
 const formID = document.getElementById("form");
 const main = document.getElementById("main");
 
